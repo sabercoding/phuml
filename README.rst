@@ -75,3 +75,16 @@ example of how a complete phUML call could look like, this is the one used
 generate the example you can see above. ::
 
 	$ phuml -r ./ -dot -createAssociations false -neato example.png
+
+Ths .pos file can be import in processon_.  the example you can see above. ::
+
+	$ phuml -r ./ -processon example.pos
+
+.. _processon: http://www.processon.com
+
+Support
+===================================
+
+if you have problem with using phuml. You can see the tutorial_.
+
+.. _tutorial: https://shuibo.me/index.php/archives/184/
