@@ -9,6 +9,8 @@ return array(
     'plGraphvizProcessor'                           =>  'classes/processor/graphviz.php',
     'plGraphvizProcessorOptions'                    =>  'classes/processor/graphviz/options.php',
 
+    'plProcessonProcessor'                           =>  'classes/processor/processon.php',
+
     'plProcessorNotFoundException'                  =>  'exceptions/processor/notFound.php',
 
     'plGraphvizProcessorStyle'                      =>  'interfaces/processor/graphviz/style.php',
